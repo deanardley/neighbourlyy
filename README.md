@@ -1,1 +1,1 @@
-# Neighbourly: Neighbourhood Management System
+# Neighborly: Neighborhood Management System
