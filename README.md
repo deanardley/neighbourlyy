@@ -9,7 +9,7 @@ Neighborly is a neighborhood management system that is developed to facilitate i
 
 ## Project Screenshots
 
-* ## Key Features
+## Key Features
 * **Visitor Monitoring System:** Records and tracks visitor check-ins and check-outs within the residential area for improved security and transparency.
 * **Complaint Management Module:** Enables residents to submit, track, and manage complaints digitally with status updates.
 * **Interactive Data Dashboard:** Visualizes key statistics such as monthly visitor trends and complaint summaries using dynamic charts.
