@@ -5,7 +5,7 @@
 ![Oracle DB](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## Project Description
-Neighbourly is a neighborhood management system that is developed to facilitate in residential area management. The web application is based on the Model-View-Controller (MVC) framework that is divided into several components such as **Model**, **View**, **Controller**. The users of the system consists of Resident, Guard and Admin and each type of user can perform different tasks.
+Neighbourly is a neighbourhood management system that is developed to facilitate in residential area management. The web application is based on the Model-View-Controller (MVC) framework that is divided into several components such as **Model**, **View**, **Controller**. The users of the system consists of Resident, Guard and Admin and each type of user can perform different tasks.
 
 ## Project Screenshots
 <p align="center">
