@@ -1,4 +1,12 @@
 # Neighborly: Neighborhood Management System
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # Project Description
-Neighborly is a neighborhood management system that is developed to facilitate in residential area management. The web application is based on the Model-View-Controller (MVC) framework that is divided into several components such as **Model**, **View**, **Controller**.
+Neighborly is a neighborhood management system that is developed to facilitate in residential area management. The web application is based on the Model-View-Controller (MVC) framework that is divided into several components such as **Model**, **View**, **Controller**. The users of the system consists of Resident, Guard and Admin and each type of user can perform different tasks.
+
+# Project Screenshots
+
+# Key Features
