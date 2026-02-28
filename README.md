@@ -8,10 +8,12 @@
 Neighborly is a neighborhood management system that is developed to facilitate in residential area management. The web application is based on the Model-View-Controller (MVC) framework that is divided into several components such as **Model**, **View**, **Controller**. The users of the system consists of Resident, Guard and Admin and each type of user can perform different tasks.
 
 ## Project Screenshots
-<img width="%45" src="Screenshot 2026-02-28 085713" src="https://github.com/user-attachments/assets/f2b74f8a-6559-44f5-8348-39125432b16b" />
-<img width="%45" src="Screenshot 2026-02-28 090608" src="https://github.com/user-attachments/assets/819cdc09-8d2a-4746-8d30-4d7242d3b462" />
-<img width="%45" src="Screenshot 2026-02-28 090714" src="https://github.com/user-attachments/assets/240e2d17-6991-40d1-b5b6-62176abd1844" />
-<img width="%45" src="Screenshot 2026-02-28 090532" src="https://github.com/user-attachments/assets/831cdfb4-199a-469f-a2da-81c868648b55" />
+<p align="center">
+  <img width="45%" src="Screenshot 2026-02-28 085713" src="https://github.com/user-attachments/assets/f2b74f8a-6559-44f5-8348-39125432b16b" />
+  <img width="45%" src="Screenshot 2026-02-28 090608" src="https://github.com/user-attachments/assets/819cdc09-8d2a-4746-8d30-4d7242d3b462" />
+  <img width="45%" src="Screenshot 2026-02-28 090714" src="https://github.com/user-attachments/assets/240e2d17-6991-40d1-b5b6-62176abd1844" />
+  <img width="45%" src="Screenshot 2026-02-28 090532" src="https://github.com/user-attachments/assets/831cdfb4-199a-469f-a2da-81c868648b55" />
+</p>
 
 ## Key Features
 * **Visitor Monitoring System:** Records and tracks visitor check-ins and check-outs within the residential area for improved security and transparency.
